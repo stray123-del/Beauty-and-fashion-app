@@ -1,0 +1,6 @@
+{
+  "name": "Skincare & Style Consultant",
+  "description": "An AI-powered skincare and style advisor. Scan your face to analyze skin type and acne concerns for custom routines, and receive fashion styling based on body type and trends.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
